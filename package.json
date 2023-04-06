@@ -1,0 +1,23 @@
+{
+  "name": "bettersr",
+  "version": "1.0.0",
+  "description": "Better SR for Twitch",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JrMime/BetterSR.git"
+  },
+  "keywords": [
+    "SR",
+    "Twitch"
+  ],
+  "author": "Jr Mime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JrMime/BetterSR/issues"
+  },
+  "homepage": "https://github.com/JrMime/BetterSR#readme"
+}
