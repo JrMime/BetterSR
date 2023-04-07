@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/JrMime/BetterSR/issues"
   },
-  "homepage": "https://github.com/JrMime/BetterSR#readme"
+  "homepage": "https://github.com/JrMime/BetterSR#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "tmi.js": "^1.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "@types/tmi.js": "^1.8.3"
+  }
 }
